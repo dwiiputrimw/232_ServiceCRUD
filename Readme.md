@@ -10,3 +10,5 @@ Hasil POST
 Hasil Delete 
 ![alt text](image-2.png)
 
+Hasil PUT 
+![alt text](image-3.png)
